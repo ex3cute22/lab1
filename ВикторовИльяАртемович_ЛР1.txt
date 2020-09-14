@@ -34,6 +34,13 @@ git mv Перемещение.txt newDir/to.txt
 git checkout (хэш)
 git tag (name)
 
-git switch -c 
+git switch -c - 
+git branch (название) - создание новой ветки
+git branch -d (название) - удаляет ветку
+git reset --hard (хэш) - удаляет комиит
 
 git tag -a 8com_a -m 'Вернуться позже'
+
+git checkout -b (название) - создание новой ветки и переход на нее
+
+git merge - обьединение веток
