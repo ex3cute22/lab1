@@ -25,7 +25,7 @@ git add *.txt
 9) Cделать второй коммит
 git commit -m 'Второй коммит'
 
-10)
+10)Привет, это ветка vetka_master
 git log
 git log --pretty=oneline
 
