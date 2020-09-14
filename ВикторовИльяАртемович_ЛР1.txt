@@ -44,3 +44,9 @@ git tag -a 8com_a -m 'Вернуться позже'
 git checkout -b (название) - создание новой ветки и переход на нее
 
 git merge - обьединение веток
+
+git stash
+
+git status
+
+git stash apply stash@{index}
