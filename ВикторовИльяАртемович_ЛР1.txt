@@ -35,3 +35,5 @@ git checkout (õýø)
 git tag (name)
 
 git switch -c 
+
+git commit --amend
