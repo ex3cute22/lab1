@@ -31,3 +31,4 @@ git log --pretty=oneline
 
 rm *.html
 git mv Перемещение.txt newDir/to.txt
+git checkout (хэш)
