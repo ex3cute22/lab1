@@ -12,6 +12,7 @@ git init
 
 5) Проиндексировать
 git add *.txt
+git status
 
 6) Первый коммит
 git commit -m 'Первый коммит'
@@ -27,3 +28,6 @@ git commit -m 'Второй коммит'
 10)
 git log
 git log --pretty=oneline
+
+rm *.html
+git mv Перемещение.txt newDir/to.txt
