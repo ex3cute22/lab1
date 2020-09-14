@@ -1,0 +1,19 @@
+1) Установка Git
+2) Первоначальная настройка системы контроля версий Git
+
+git config --global user.name "Ilya"
+git config --global user.email "viktorov.200@mail.ru"
+git config --list (Проверка)
+
+3) Создать каталог для выполнения лабораторной работы(каталог проекта) - lab 1
+
+4) Инициализация
+git init
+
+5) Индексирование
+git add *.txt
+
+6) Первый коммит
+git commit -m 'Первый коммит'
+
+
