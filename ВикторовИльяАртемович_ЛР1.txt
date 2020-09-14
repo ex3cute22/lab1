@@ -36,4 +36,4 @@ git tag (name)
 
 git switch -c 
 
-git commit --amend
+git tag -a 8com_a -m 'Вернуться позже'
