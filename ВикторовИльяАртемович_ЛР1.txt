@@ -32,3 +32,8 @@ git log --pretty=oneline
 rm *.html
 git mv Перемещение.txt newDir/to.txt
 git checkout (хэш)
+git tag (name)
+
+git switch -c 
+
+git tag -a 8com_a -m 'Вернуться позже'
